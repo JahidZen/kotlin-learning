@@ -19,18 +19,30 @@ This repository documents my structured journey into backend development using K
 
 •	backend-bootcamp-2025 → Notes and exercises from backend-focused learning
 
+
 🎯 Purpose of This Repository
+
 This repository is focused on:
+
 •	Practicing Kotlin fundamentals
+
 •	Building small backend components
+
 •	Understanding API structure and logic
+
 •	Strengthening problem-solving skills
+
 It represents my learning and experimentation phase, while my main projects demonstrate production-level work.
 
+
 🛠️ Tech Stack
+
 •	Kotlin
+
 •	Basic REST APIs
+
 •	Intro to backend development concepts
+
 
 🚀 What I'm Working Towards
 •	 Building scalable backend systems using Spring Boot
