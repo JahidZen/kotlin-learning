@@ -14,7 +14,9 @@ This repository documents my structured journey into backend development using K
 •	hello-api → Introductory API for understanding routing and responses
 
 🔹 Learning & Practice
+
 •	My Kotlin learning journey → Core Kotlin concepts, syntax, and experimentation
+
 •	backend-bootcamp-2025 → Notes and exercises from backend-focused learning
 
 🎯 Purpose of This Repository
