@@ -6,9 +6,13 @@ This repository documents my structured journey into backend development using K
 📂 Repository Structure
 
 🔹 Mini Projects
+
 •	coint-toss-app → Simple logic-based Kotlin application
+
 •	rps-api → Basic Rock-Paper-Scissors API
+
 •	hello-api → Introductory API for understanding routing and responses
+
 🔹 Learning & Practice
 •	My Kotlin learning journey → Core Kotlin concepts, syntax, and experimentation
 •	backend-bootcamp-2025 → Notes and exercises from backend-focused learning
