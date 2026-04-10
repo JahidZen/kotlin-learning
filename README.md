@@ -4,6 +4,7 @@
 This repository documents my structured journey into backend development using Kotlin. It includes hands-on practice with core concepts, mini-projects, and foundational backend experiments.
 
 📂 Repository Structure
+
 🔹 Mini Projects
 •	coint-toss-app → Simple logic-based Kotlin application
 •	rps-api → Basic Rock-Paper-Scissors API
